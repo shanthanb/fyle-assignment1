@@ -1,0 +1,21 @@
+﻿.container, .forePage, .coll, .section2, .section3{
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #BFBFBF;
+}
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
